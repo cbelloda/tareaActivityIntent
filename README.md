@@ -4,4 +4,5 @@
 
 <img width="50%" src="https://raw.githubusercontent.com/cbelloda/tareaActivityIntent/master/Screenshot_20190218-000312.jpg"/>
 
+<img width="50%" src="https://raw.githubusercontent.com/cbelloda/tareaActivityIntent/master/Screenshot_20190218-000307.jpg"/>
 
