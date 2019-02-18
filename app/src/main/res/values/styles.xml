@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!-- texto del input text-->
+        <item name="android:textColorPrimary">@android:color/black</item>
+        <!-- color del cursor, linea y etiqueta de los EditText-->
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+</resources>
